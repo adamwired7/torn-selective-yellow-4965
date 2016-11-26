@@ -15,6 +15,8 @@ vagrant_bashrc=/home/vagrant/.bashrc
 echo 'export PATH="$PATH:$HOME/.rvm/bin"' >> $vagrant_bashrc
 source $vagrant_bashrc 
 
+right here
+
 cd /home/vagrant/wired7-demo
 gem install bundler
 
